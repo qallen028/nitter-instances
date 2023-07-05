@@ -1,31 +1,317 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: qallen028
+repo: nitter-instances
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: nitter.net
+    url: https://nitter.net
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.lacontrevoie.fr
+    url: https://nitter.lacontrevoie.fr
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
+  - name: nitter.nixnet.services
+    url: https://nitter:nitter@nitter.nixnet.services
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.fdn.fr
+    url: https://nitter.fdn.fr
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
+  - name: nitter.1d4.us
+    url: https://nitter.1d4.us
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.kavin.rocks
+    url: https://nitter.kavin.rocks
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
+  - name: nitter.unixfox.eu
+    url: https://nitter.unixfox.eu
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nl.png
+  - name: nitter.domain.glass
+    url: https://nitter.domain.glass
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: birdsite.xanny.family
+    url: https://birdsite.xanny.family
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/gb.png
+  - name: nitter.moomoo.me
+    url: https://nitter.moomoo.me
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nittereu.moomoo.me
+    url: https://nittereu.moomoo.me
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/se.png
+  - name: bird.trom.tf
+    url: https://bird.trom.tf
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.it
+    url: https://nitter.it
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fi.png
+  - name: twitter.censors.us
+    url: https://twitter.censors.us
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
+  - name: twitter.076.ne.jp
+    url: https://twitter.076.ne.jp
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png
+  - name: nitter.fly.dev
+    url: https://nitter.fly.dev
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png
+  - name: notabird.site
+    url: https://notabird.site
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png
+  - name: nitter.weiler.rocks
+    url: https://nitter.weiler.rocks
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.sethforprivacy.com
+    url: https://nitter.sethforprivacy.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.cutelab.space
+    url: https://nitter.cutelab.space
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us-tx.png
+  - name: nitter.nl
+    url: https://nitter.nl
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nl.png
+  - name: nitter.mint.lgbt
+    url: https://nitter.mint.lgbt
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
+  - name: nitter.esmailelbob.xyz
+    url: https://nitter.esmailelbob.xyz
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
+  - name: tw.artemislena.eu
+    url: https://tw.artemislena.eu
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.tiekoetter.com
+    url: https://nitter.tiekoetter.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.spaceint.fr
+    url: https://nitter.spaceint.fr
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/be.png
+  - name: nitter.privacy.com.de
+    url: https://nitter.privacy.com.de
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.poast.org
+    url: https://nitter.poast.org
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.bird.froth.zone
+    url: https://nitter.bird.froth.zone
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
+  - name: twitter.dr460nf1r3.org
+    url: https://twitter.dr460nf1r3.org
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: twitter.femboy.hu
+    url: https://twitter.femboy.hu
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/hu.png
+  - name: nitter.cz
+    url: https://nitter.cz
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/cz.png
+  - name: nitter.privacydev.net
+    url: https://nitter.privacydev.net
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: tweet.lambda.dance
+    url: https://tweet.lambda.dance
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.kylrth.com
+    url: https://nitter.kylrth.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
+  - name: nitter.priv.pw
+    url: https://nitter.priv.pw
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.tokhmi.xyz
+    url: https://nitter.tokhmi.xyz
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.catalyst.sx
+    url: https://nitter.catalyst.sx
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: unofficialbird.com
+    url: https://unofficialbird.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.projectsegfau.lt
+    url: https://nitter.projectsegfau.lt
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/lu.png
+  - name: singapore.unofficialbird.com
+    url: https://singapore.unofficialbird.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/sg.png
+  - name: canada.unofficialbird.com
+    url: https://canada.unofficialbird.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
+  - name: india.unofficialbird.com
+    url: https://india.unofficialbird.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
+  - name: nederland.unofficialbird.com
+    url: https://nederland.unofficialbird.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nl.png
+  - name: uk.unofficialbird.com
+    url: https://uk.unofficialbird.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/gb.png
+  - name: n.l5.ca
+    url: https://n.l5.ca
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.slipfox.xyz
+    url: https://nitter.slipfox.xyz
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.soopy.moe
+    url: https://nitter.soopy.moe
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/hk.png
+  - name: nitter.qwik.space
+    url: https://nitter.qwik.space
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/.png
+  - name: read.whatever.social
+    url: https://read.whatever.social
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.rawbit.ninja
+    url: https://nitter.rawbit.ninja
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nt.vern.cc
+    url: https://nt.vern.cc
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.ir
+    url: https://nitter.ir
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.privacytools.io
+    url: https://nitter.privacytools.io
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/se.png
+  - name: nitter.sneed.network
+    url: https://nitter.sneed.network
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/au.png
+  - name: nitter.smnz.de
+    url: https://nitter.smnz.de
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.twei.space
+    url: https://nitter.twei.space
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/at.png
+  - name: nitter.inpt.fr
+    url: https://nitter.inpt.fr
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
+  - name: nitter.d420.de
+    url: https://nitter.d420.de
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.caioalonso.com
+    url: https://nitter.caioalonso.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.at
+    url: https://nitter.at
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.pw
+    url: https://nitter.pw
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png
+  - name: nitter.nicfab.eu
+    url: https://nitter.nicfab.eu
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/it.png
+  - name: bird.habedieeh.re
+    url: https://bird.habedieeh.re
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
+  - name: nitter.hostux.net
+    url: https://nitter.hostux.net
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
+  - name: nitter.adminforge.de
+    url: https://nitter.adminforge.de
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.platypush.tech
+    url: https://nitter.platypush.tech
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.pufe.org
+    url: https://nitter.pufe.org
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nz.png
+  - name: nitter.us.projectsegfau.lt
+    url: https://nitter.us.projectsegfau.lt
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.arcticfoxes.net
+    url: https://nitter.arcticfoxes.net
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/gb.png
+  - name: t.com.sb
+    url: https://t.com.sb
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ee.png
+  - name: nitter.kling.gg
+    url: https://nitter.kling.gg
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nl.png
+  - name: nitter.ktachibana.party
+    url: https://nitter.ktachibana.party
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.riverside.rocks
+    url: https://nitter.riverside.rocks
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.lunar.icu
+    url: https://nitter.lunar.icu
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: twitter.moe.ngo
+    url: https://twitter.moe.ngo
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/id.png
+  - name: nitter.freedit.eu
+    url: https://nitter.freedit.eu
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: ntr.frail.duckdns.org
+    url: https://ntr.frail.duckdns.org
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/br.png
+  - name: n.opnxng.com
+    url: https://n.opnxng.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png
+  - name: nitter.plus.st
+    url: https://nitter.plus.st
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.in.projectsegfau.lt
+    url: https://nitter.in.projectsegfau.lt
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
+  - name: nitter.tux.pizza
+    url: https://nitter.tux.pizza
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: t.floss.media
+    url: https://t.floss.media
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fi.png
+  - name: twit.hell.rodeo
+    url: https://twit.hell.rodeo
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.nachtalb.io
+    url: https://nitter.nachtalb.io
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ch.png
+  - name: n.quadtr.ee
+    url: https://n.quadtr.ee
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.altgr.xyz
+    url: https://nitter.altgr.xyz
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/cl.png
+  - name: jote.lile.cl
+    url: https://jote.lile.cl
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/cl.png
+  - name: nitter.one
+    url: https://nitter.one
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/se.png
+  - name: nitter.edist.ro
+    url: https://nitter.edist.ro
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.instance.no
+    url: https://nitter.instance.no
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/no.png
+  - name: nitter.io.lol
+    url: https://nitter.io.lol
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.hu
+    url: https://nitter.hu
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/hu.png
+  - name: nitter.no-logs.com
+    url: https://nitter.no-logs.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/se.png
+  - name: nitter.fascinated.cc
+    url: https://nitter.fascinated.cc
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.ftw.lol
+    url: https://nitter:nitter@nitter.ftw.lol
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.kozmik.studio
+    url: https://nitter.kozmik.studio
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: tweet.whateveritworks.org
+    url: https://tweet.whateveritworks.org
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: t.uchun.net
+    url: https://t.uchun.net
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nl.png
+  - name: nitter.fediflix.org
+    url: https://nitter.fediflix.org
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /nitter-instances
+  logoUrl: https://raw.githubusercontent.com/zedeus/nitter/master/public/favicon-32x32.png
+  name: Nitter Instances
+  introTitle: "Nitter Instances Uptime"
+  introMessage: This status page monitors [Nitter instances](https://github.com/zedeus/nitter/wiki/Instances) for uptime.
   navbar:
     - title: Status
-      href: /
+      href: /nitter-instances
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  theme: dark
