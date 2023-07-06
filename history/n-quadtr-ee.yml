@@ -1,7 +1,7 @@
 url: https://n.quadtr.ee
-status: up
-code: 200
+status: down
+code: 502
 responseTime: 336
-lastUpdated: 2023-07-06T06:59:07.190Z
+lastUpdated: 2023-07-06T07:12:00.144Z
 startTime: Wed Jul 05 2023 09:10:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
