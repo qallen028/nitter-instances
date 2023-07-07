@@ -1,7 +1,7 @@
 url: https://nitter.weiler.rocks
-status: up
-code: 200
-responseTime: 965
-lastUpdated: 2023-07-06T23:08:51.525Z
+status: down
+code: 502
+responseTime: 978
+lastUpdated: 2023-07-07T15:54:17.580Z
 startTime: Wed Jul 05 2023 09:08:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
