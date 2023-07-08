@@ -4,19 +4,19 @@
     "url": "https://nitter.net",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-net",
-    "status": "down",
+    "status": "up",
     "uptime": "39.53%",
-    "uptimeDay": "31.85%",
+    "uptimeDay": "31.65%",
     "uptimeWeek": "39.53%",
     "uptimeMonth": "39.53%",
     "uptimeYear": "39.53%",
-    "time": 859,
-    "timeDay": 1205,
-    "timeWeek": 859,
-    "timeMonth": 859,
-    "timeYear": 859,
+    "time": 855,
+    "timeDay": 1204,
+    "timeWeek": 855,
+    "timeMonth": 855,
+    "timeYear": 855,
     "dailyMinutesDown": {
-      "2023-07-08": 640,
+      "2023-07-08": 643,
       "2023-07-07": 698,
       "2023-07-06": 821,
       "2023-07-05": 624
@@ -129,7 +129,7 @@
     "timeMonth": 543,
     "timeYear": 543,
     "dailyMinutesDown": {
-      "2023-07-08": 828,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 892
@@ -233,11 +233,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fi.png",
     "slug": "nitter-it",
     "status": "up",
-    "uptime": "70.21%",
-    "uptimeDay": "86.32%",
-    "uptimeWeek": "70.21%",
-    "uptimeMonth": "70.21%",
-    "uptimeYear": "70.21%",
+    "uptime": "70.24%",
+    "uptimeDay": "86.65%",
+    "uptimeWeek": "70.24%",
+    "uptimeMonth": "70.24%",
+    "uptimeYear": "70.24%",
     "time": 773,
     "timeDay": 728,
     "timeWeek": 773,
@@ -265,7 +265,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 828,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 892
@@ -288,7 +288,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 828,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 892
@@ -311,7 +311,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 828,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 892
@@ -323,11 +323,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png",
     "slug": "notabird-site",
     "status": "up",
-    "uptime": "81.14%",
+    "uptime": "81.16%",
     "uptimeDay": "81.80%",
-    "uptimeWeek": "81.14%",
-    "uptimeMonth": "81.14%",
-    "uptimeYear": "81.14%",
+    "uptimeWeek": "81.16%",
+    "uptimeMonth": "81.16%",
+    "uptimeYear": "81.16%",
     "time": 97,
     "timeDay": 94,
     "timeWeek": 97,
@@ -436,11 +436,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png",
     "slug": "nitter-esmailelbob-xyz",
     "status": "up",
-    "uptime": "94.73%",
+    "uptime": "94.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.73%",
-    "uptimeMonth": "94.73%",
-    "uptimeYear": "94.73%",
+    "uptimeWeek": "94.74%",
+    "uptimeMonth": "94.74%",
+    "uptimeYear": "94.74%",
     "time": 2072,
     "timeDay": 1465,
     "timeWeek": 2072,
@@ -503,7 +503,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 828,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 892
@@ -580,7 +580,7 @@
     "timeMonth": 643,
     "timeYear": 643,
     "dailyMinutesDown": {
-      "2023-07-08": 828,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 892
@@ -603,7 +603,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 828,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 891
@@ -626,7 +626,7 @@
     "timeMonth": 725,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2023-07-08": 828,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 891
@@ -638,11 +638,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "nitter-privacydev-net",
     "status": "up",
-    "uptime": "95.68%",
+    "uptime": "95.69%",
     "uptimeDay": "98.74%",
-    "uptimeWeek": "95.68%",
-    "uptimeMonth": "95.68%",
-    "uptimeYear": "95.68%",
+    "uptimeWeek": "95.69%",
+    "uptimeMonth": "95.69%",
+    "uptimeYear": "95.69%",
     "time": 944,
     "timeDay": 4580,
     "timeWeek": 944,
@@ -708,7 +708,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 828,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 891
@@ -749,7 +749,7 @@
     "timeMonth": 209,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2023-07-08": 828,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 891
@@ -941,18 +941,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/.png",
     "slug": "nitter-qwik-space",
     "status": "down",
-    "uptime": "94.80%",
-    "uptimeDay": "83.39%",
-    "uptimeWeek": "94.80%",
-    "uptimeMonth": "94.80%",
-    "uptimeYear": "94.80%",
+    "uptime": "94.71%",
+    "uptimeDay": "83.07%",
+    "uptimeWeek": "94.71%",
+    "uptimeMonth": "94.71%",
+    "uptimeYear": "94.71%",
     "time": 917,
     "timeDay": 956,
     "timeWeek": 917,
     "timeMonth": 917,
     "timeYear": 917,
     "dailyMinutesDown": {
-      "2023-07-08": 239
+      "2023-07-08": 244
     }
   },
   {
@@ -1082,7 +1082,7 @@
     "timeMonth": 744,
     "timeYear": 744,
     "dailyMinutesDown": {
-      "2023-07-08": 829,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 886
@@ -1105,7 +1105,7 @@
     "timeMonth": 108,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2023-07-08": 829,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 891
@@ -1190,19 +1190,19 @@
     "url": "https://nitter.pw",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png",
     "slug": "nitter-pw",
-    "status": "down",
-    "uptime": "72.49%",
-    "uptimeDay": "67.96%",
-    "uptimeWeek": "72.49%",
-    "uptimeMonth": "72.49%",
-    "uptimeYear": "72.49%",
+    "status": "up",
+    "uptime": "72.44%",
+    "uptimeDay": "67.70%",
+    "uptimeWeek": "72.44%",
+    "uptimeMonth": "72.44%",
+    "uptimeYear": "72.44%",
     "time": 283,
-    "timeDay": 288,
+    "timeDay": 286,
     "timeWeek": 283,
     "timeMonth": 283,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2023-07-08": 316,
+      "2023-07-08": 320,
       "2023-07-07": 453,
       "2023-07-06": 424,
       "2023-07-05": 71
@@ -1297,7 +1297,7 @@
     "timeMonth": 524,
     "timeYear": 524,
     "dailyMinutesDown": {
-      "2023-07-08": 829,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 891
@@ -1356,7 +1356,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 829,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 890
@@ -1415,7 +1415,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 829,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 890
@@ -1438,7 +1438,7 @@
     "timeMonth": 272,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2023-07-08": 829,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 890
@@ -1518,7 +1518,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 829,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 890
@@ -1559,7 +1559,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 829,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 890
@@ -1618,7 +1618,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 829,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 890
@@ -1641,7 +1641,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 829,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 890
@@ -1664,7 +1664,7 @@
     "timeMonth": 103,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2023-07-08": 829,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 890
@@ -1687,7 +1687,7 @@
     "timeMonth": 338,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2023-07-08": 829,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1427,
       "2023-07-05": 890
@@ -1699,11 +1699,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/cl.png",
     "slug": "nitter-altgr-xyz",
     "status": "up",
-    "uptime": "86.13%",
+    "uptime": "86.14%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.13%",
-    "uptimeMonth": "86.13%",
-    "uptimeYear": "86.13%",
+    "uptimeWeek": "86.14%",
+    "uptimeMonth": "86.14%",
+    "uptimeYear": "86.14%",
     "time": 725,
     "timeDay": 620,
     "timeWeek": 725,
@@ -1737,11 +1737,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/se.png",
     "slug": "nitter-one",
     "status": "up",
-    "uptime": "89.99%",
+    "uptime": "90.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.99%",
-    "uptimeMonth": "89.99%",
-    "uptimeYear": "89.99%",
+    "uptimeWeek": "90.00%",
+    "uptimeMonth": "90.00%",
+    "uptimeYear": "90.00%",
     "time": 1075,
     "timeDay": 481,
     "timeWeek": 1075,
@@ -1786,7 +1786,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 1658,
+      "2023-07-08": 1666,
       "2023-07-07": 2880,
       "2023-07-06": 2880,
       "2023-07-05": 1780
@@ -1852,18 +1852,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-fascinated-cc",
     "status": "down",
-    "uptime": "36.44%",
-    "uptimeDay": "17.36%",
-    "uptimeWeek": "36.44%",
-    "uptimeMonth": "36.44%",
-    "uptimeYear": "36.44%",
+    "uptime": "36.40%",
+    "uptimeDay": "17.05%",
+    "uptimeWeek": "36.40%",
+    "uptimeMonth": "36.40%",
+    "uptimeYear": "36.40%",
     "time": 337,
     "timeDay": 305,
     "timeWeek": 337,
     "timeMonth": 337,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2023-07-08": 829,
+      "2023-07-08": 833,
       "2023-07-07": 428,
       "2023-07-06": 1440,
       "2023-07-05": 226
@@ -1886,7 +1886,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 829,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 889
@@ -1909,7 +1909,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 829,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 889
@@ -1950,7 +1950,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 829,
+      "2023-07-08": 833,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 889
@@ -1962,11 +1962,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-fediflix-org",
     "status": "up",
-    "uptime": "91.59%",
+    "uptime": "91.60%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.59%",
-    "uptimeMonth": "91.59%",
-    "uptimeYear": "91.59%",
+    "uptimeWeek": "91.60%",
+    "uptimeMonth": "91.60%",
+    "uptimeYear": "91.60%",
     "time": 828,
     "timeDay": 780,
     "timeWeek": 828,
