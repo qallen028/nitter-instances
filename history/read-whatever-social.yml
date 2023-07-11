@@ -1,7 +1,7 @@
 url: https://read.whatever.social
-status: up
-code: 200
-responseTime: 488
-lastUpdated: 2023-07-11T23:23:00.645Z
+status: down
+code: 504
+responseTime: 10378
+lastUpdated: 2023-07-11T23:28:57.151Z
 startTime: Wed Jul 05 2023 09:09:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
