@@ -1,7 +1,7 @@
 url: https://nitter.smnz.de
-status: up
-code: 200
-responseTime: 875
-lastUpdated: 2023-08-15T13:46:21.436Z
+status: down
+code: 503
+responseTime: 849
+lastUpdated: 2023-08-15T13:57:08.612Z
 startTime: Wed Jul 05 2023 09:09:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
