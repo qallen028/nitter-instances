@@ -1,7 +1,7 @@
 url: https://tweet.lambda.dance
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-08-18T07:47:18.118Z
+status: up
+code: 200
+responseTime: 441
+lastUpdated: 2023-08-18T07:52:47.105Z
 startTime: Wed Jul 05 2023 09:09:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
