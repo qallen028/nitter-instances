@@ -1,7 +1,7 @@
 url: https://nitter:nitter@nitter.ftw.lol
-status: up
-code: 200
-responseTime: 1019
-lastUpdated: 2023-09-06T23:11:04.191Z
+status: down
+code: 502
+responseTime: 658
+lastUpdated: 2023-09-07T18:31:22.075Z
 startTime: 2023-07-05T09:10:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
