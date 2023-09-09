@@ -1,7 +1,7 @@
 url: https://n.l5.ca
-status: up
-code: 200
-responseTime: 2254
-lastUpdated: 2023-09-09T07:46:48.354Z
+status: down
+code: 502
+responseTime: 332
+lastUpdated: 2023-09-09T09:30:46.076Z
 startTime: 2023-07-05T09:09:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
