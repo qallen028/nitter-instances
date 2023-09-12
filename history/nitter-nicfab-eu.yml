@@ -1,7 +1,7 @@
 url: https://nitter.nicfab.eu
-status: up
-code: 200
-responseTime: 916
-lastUpdated: 2023-09-11T23:38:53.962Z
+status: down
+code: 502
+responseTime: 544
+lastUpdated: 2023-09-12T20:45:16.687Z
 startTime: 2023-07-05T09:09:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
