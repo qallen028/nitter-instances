@@ -1,7 +1,7 @@
 url: https://nitter.platypush.tech
-status: up
-code: 200
-responseTime: 378
-lastUpdated: 2023-09-20T23:53:22.430Z
+status: down
+code: 502
+responseTime: 521
+lastUpdated: 2023-09-21T08:50:16.846Z
 startTime: 2023-07-05T09:09:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
