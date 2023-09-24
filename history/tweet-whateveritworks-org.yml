@@ -1,7 +1,7 @@
 url: https://tweet.whateveritworks.org
-status: up
-code: 200
-responseTime: 506
-lastUpdated: 2023-09-24T20:23:22.487Z
+status: down
+code: 502
+responseTime: 545
+lastUpdated: 2023-09-24T20:33:56.773Z
 startTime: 2023-07-05T09:10:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
