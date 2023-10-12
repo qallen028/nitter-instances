@@ -1,7 +1,7 @@
 url: https://nitter.lunar.icu
-status: up
-code: 200
-responseTime: 471
-lastUpdated: 2023-10-12T04:50:07.021Z
+status: down
+code: 500
+responseTime: 293
+lastUpdated: 2023-10-12T05:12:55.427Z
 startTime: 2023-07-05T09:09:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
