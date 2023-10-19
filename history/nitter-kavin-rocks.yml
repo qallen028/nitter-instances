@@ -1,7 +1,7 @@
 url: https://nitter.kavin.rocks
-status: up
-code: 200
-responseTime: 746
-lastUpdated: 2023-10-18T23:07:02.005Z
+status: down
+code: 502
+responseTime: 767
+lastUpdated: 2023-10-19T06:30:11.822Z
 startTime: 2023-07-05T09:08:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
