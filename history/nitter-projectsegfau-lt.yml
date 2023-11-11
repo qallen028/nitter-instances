@@ -1,7 +1,7 @@
 url: https://nitter.projectsegfau.lt
-status: up
-code: 200
-responseTime: 8586
-lastUpdated: 2023-11-11T10:45:47.624Z
+status: down
+code: 503
+responseTime: 600
+lastUpdated: 2023-11-11T10:56:41.750Z
 startTime: 2023-07-05T09:09:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
