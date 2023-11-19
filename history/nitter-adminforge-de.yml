@@ -1,7 +1,7 @@
 url: https://nitter.adminforge.de
-status: up
-code: 200
-responseTime: 678
-lastUpdated: 2023-11-19T03:36:50.137Z
+status: down
+code: 502
+responseTime: 835
+lastUpdated: 2023-11-19T04:13:09.393Z
 startTime: 2023-07-05T09:09:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
