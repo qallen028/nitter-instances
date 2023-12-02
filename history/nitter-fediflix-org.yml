@@ -1,7 +1,7 @@
 url: https://nitter.fediflix.org
-status: down
-code: 403
-responseTime: 757
-lastUpdated: 2023-12-02T20:50:42.346Z
+status: up
+code: 200
+responseTime: 701
+lastUpdated: 2023-12-02T21:01:53.346Z
 startTime: 2023-07-05T09:10:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
