@@ -1,7 +1,7 @@
 url: https://nitter.domain.glass
-status: up
-code: 200
-responseTime: 470
-lastUpdated: 2023-12-06T03:46:22.476Z
+status: down
+code: 503
+responseTime: 312
+lastUpdated: 2023-12-06T03:57:21.987Z
 startTime: 2023-07-05T09:08:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
