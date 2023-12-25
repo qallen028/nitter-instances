@@ -1,7 +1,7 @@
 url: https://nitter.tux.pizza
-status: up
-code: 200
-responseTime: 355
-lastUpdated: 2023-12-24T23:08:00.913Z
+status: down
+code: 503
+responseTime: 513
+lastUpdated: 2023-12-25T04:10:47.536Z
 startTime: 2023-07-05T09:10:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
