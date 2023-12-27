@@ -1,7 +1,7 @@
 url: https://nitter.ktachibana.party
-status: up
-code: 200
-responseTime: 684
-lastUpdated: 2023-12-27T03:14:34.464Z
+status: down
+code: 503
+responseTime: 74
+lastUpdated: 2023-12-27T03:25:01.500Z
 startTime: 2023-07-05T09:09:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
