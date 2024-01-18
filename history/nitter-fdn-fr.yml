@@ -1,7 +1,7 @@
 url: https://nitter.fdn.fr
-status: down
-code: 503
+status: up
+code: 200
 responseTime: 430
-lastUpdated: 2024-01-18T23:19:36.031Z
+lastUpdated: 2024-01-18T23:31:54.214Z
 startTime: 2023-07-05T09:08:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
