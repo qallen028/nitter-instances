@@ -1,7 +1,7 @@
 url: https://nitter.privacydev.net
-status: up
-code: 200
-responseTime: 2271
-lastUpdated: 2024-01-17T23:08:55.710Z
+status: down
+code: 502
+responseTime: 1102
+lastUpdated: 2024-01-19T23:07:03.212Z
 startTime: 2023-07-05T09:09:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
