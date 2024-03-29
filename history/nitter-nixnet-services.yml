@@ -1,7 +1,7 @@
 url: https://nitter:nitter@nitter.nixnet.services
-status: up
-code: 200
-responseTime: 577
-lastUpdated: 2024-03-27T23:07:10.516Z
+status: down
+code: 502
+responseTime: 767
+lastUpdated: 2024-03-29T19:39:05.526Z
 startTime: 2023-07-05T09:08:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
